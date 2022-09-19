@@ -29,3 +29,30 @@ body {
 .shoutout:hover {
   color: gray;
 }
+
+#intro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+#aboutme {
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.pic {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
+
+p {
+  max-width: 600px;
+}
+
+img {
+  max-width: 400px;
+  max-height: auto;
+}
