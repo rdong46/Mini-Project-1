@@ -41,7 +41,7 @@ body {
   font-size: 36px;
 }
 
-#credit {
+.link {
   display: flex;
   align-items: flex-end;
   justify-content: center;
@@ -52,12 +52,12 @@ body {
   text-align: center;
 }
 
-#shoutout {
+.shoutout {
   color: black;
   text-decoration: none;
 }
 
-#shoutout:hover {
+.shoutout:hover {
   color: gray;
 }
 
